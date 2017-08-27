@@ -1,0 +1,10 @@
+.jumbotron {
+background-image: url("assets/images/budswimming.jpg");
+background-size: cover;
+height: 100%;
+}
+
+img-fluid {
+	max-width: 100%;
+	height: auto;
+}
