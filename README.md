@@ -1,4 +1,4 @@
-# Homework 2 -Basic Portfolio
+# Homework 2 -Bootstrap Portfolio
 This is a very basic (could be way more aesthetically pleasing but I ran out of time since learning JS is my main focus this week-type of thing) portfolio made with Bootstrap 4.
 
 ## Getting Started
